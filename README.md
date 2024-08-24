@@ -15,11 +15,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tea0fc&show_icons=true" alt="Tea0fc" align="right" />
 </a>
 
-- ⏲️: 3 года в web-разработке
+- ⏲️ 3 года в web-разработке
 - :computer: В данный момент работаю в <a href="https://redcat.one/about">Red Cat</a>
 - :dart: Специализируюсь на Frontend-разработке
 - :video_game: Было время, когда занимался gamedev 
-- 🍵: Люблю пить чай
+- 🍵 Люблю пить чай
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного о себе...  
 
