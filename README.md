@@ -33,8 +33,7 @@ CONST TEA0FC = {
   API: ["RTK Query", "React Query"]
   metodology: ["SCRUM"]
   architecture: ["microservices", "FSD"],
-  "frontend-tools": ["Vite", "Webpack"],
-  challenge: "Достичь middle+ уровня"
+  "frontend-tools": ["Vite", "Webpack"]
 }
 ```
 
